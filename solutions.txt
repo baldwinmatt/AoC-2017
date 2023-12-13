@@ -1,3 +1,8 @@
 Day 1Part 1: 1182
 Part 2: 1152
 Elapsed: 0.000076 sec
+
+Day 2
+Part 1: 51139
+Part 2: 272
+Elapsed: 0.000097 sec
